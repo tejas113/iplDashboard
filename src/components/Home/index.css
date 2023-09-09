@@ -1,0 +1,36 @@
+.appCont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 100px;
+}
+
+.iplLogoCont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoEdit {
+  height: 55px;
+  width: 35px;
+}
+
+.headEdit {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+
+.ulEdit {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

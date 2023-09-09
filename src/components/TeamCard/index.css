@@ -1,0 +1,24 @@
+.contEdit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height: 80px;
+  width: 70%;
+  margin: 75px;
+  background-color: transparent;
+}
+
+.teamImgEdit {
+  height: 100px;
+  width: 100px;
+}
+
+.headEdit4 {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Roboto';
+  margin-left: 40px;
+  background-color: transparent;
+}
